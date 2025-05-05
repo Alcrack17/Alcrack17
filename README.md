@@ -1,67 +1,53 @@
-- 👋 Hi, I’m @Alcrack17
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<!---
-Alcrack17/Alcrack17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+   <!DOCTYPE html>
 
-<!DOCTYPE html>
 <html lang="es">
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mi Página Web</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f9;
-        }
-        header {
-            background-color: #6200ea;
-            color: white;
-            padding: 15px 10px;
-            text-align: center;
-        }
-        main {
-            padding: 20px;
-            text-align: center;
-        }
-        footer {
-            background-color: #333;
-            color: white;
-            text-align: center;
-            padding: 10px;
-            position: fixed;
-            bottom: 0;
-            width: 100%;
-        }
-        a {
-            color: #6200ea;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>BLOC PERSONAL PARA ORGANIZARSE DE ALBERTO</title>
+
+
 </head>
+
 <body>
-    <header>
-        <h1>Bienvenido a mi página web</h1>
-    </header>
-    <main>
-        <p>Esta es una página web básica creada con HTML y CSS.</p>
-        <p>Visita mi <a href="https://github.com/Alcrack17" target="_blank">GitHub</a> para más proyectos.</p>
-    </main>
-    <footer>
-        <p>&copy; 2025 Mi Página Web. Todos los derechos reservados.</p>
-    </footer>
-</body>
-</html>
+
+<header>
+
+<h1>BLOC PERSONAL PARA ORGANIZARSE DE ALBERTO</h1>
+
+</header>
+  <nav>
+
+<ul>
+
+<li><a href="https://codepen.io/Ac3po/pen/PwoXyad">Pagina 1</a></li>
+
+<li><a href="https://codepen.io/Ac3po/pen/bNGJKor?editors=1100">Pagina 2</a></li>
+
+<li><a href="https://codepen.io/Ac3po/pen/ogNOypg">Pagina 3</a></li>
+  
+<li><a href="https://codepen.io/Ac3po/pen/MYWRXzz">Pagina 4</a></li>
+  
+  <li><a href="https://codepen.io/Ac3po/pen/EaxJROq">Pagina 5</a></li>
+</ul>
+<main>
+<img> <src="https://www.bing.com/images/search?q=imagenes%20300%20x300&FORM=IQFRBA&id=05F52F34B9377F1585AF896E4DF6EB520A02036D" alt="Descripción de la imagen" width="300" height="300"> </img>
+<main>
+
+<div class="section">
+
+<h6>Tareas pendientes(esta pagina1):</h6>
+
+<p>Las mas "importantes" son mates e ingles.</p>
+<p>Las que menos afectan son filosofia(mas o menos)y lengua(mas o menos tambien)y computacion, que lo estoy mas o menos terminando.</p>
+  
+  
+</div>
+
+
+</nav>
