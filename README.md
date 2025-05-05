@@ -1,15 +1,3 @@
-- 👋 Hi, I’m @Alcrack17
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Alcrack17/Alcrack17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 <!DOCTYPE html>
 <html lang="es">
@@ -65,3 +53,86 @@ You can click the Preview link to take a look at your changes.
     </footer>
 </body>
 </html>
+/* Estilos básicos para la estructura de la página */
+
+body {
+
+font-family: Arial, sans-serif;
+
+margin: 3;
+
+padding: 1;
+
+}
+
+header, nav, footer {
+
+background-color: #f8f8f8;
+
+padding: 10px;
+
+text-align: center;
+
+}
+
+nav ul {
+
+list-style-type: none;
+
+padding: 0;
+
+}
+
+nav ul li {
+
+display: inline;
+
+margin: 0 10px;
+
+}
+
+nav ul li a {
+
+text-decoration: none;
+
+color: #456;
+
+}
+
+main {
+
+padding: 20px;
+
+}
+
+.section {
+
+margin-bottom: 20px;
+
+}
+
+.section h6 {
+
+margin: 1;
+
+font-size: 1.2em;
+
+}
+
+.image-container {
+
+text-align: center;
+
+margin: 20px 0;
+
+}
+
+footer {
+
+background-color: #333;
+
+color: #fff;
+
+padding: 10px;
+
+}
