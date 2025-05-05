@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+
+<html lang="es">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>BLOC PERSONAL PARA ORGANIZARSE DE ALBERTO</title>
+
+
+</head>
+
+<body>
+
+<header>
+
+<h1>BLOC PERSONAL PARA ORGANIZARSE DE ALBERTO</h1>
+
+</header>
+  <nav>
+
+<ul>
+
+<li><a href="https://codepen.io/Ac3po/pen/PwoXyad">Pagina 1</a></li>
+
+<li><a href="https://codepen.io/Ac3po/pen/bNGJKor?editors=1100">Pagina 2</a></li>
+
+<li><a href="https://codepen.io/Ac3po/pen/ogNOypg">Pagina 3</a></li>
+  
+<li><a href="https://codepen.io/Ac3po/pen/MYWRXzz">Pagina 4</a></li>
+  
+  <li><a href="https://codepen.io/Ac3po/pen/EaxJROq">Pagina 5</a></li>
+</ul>
+<main>
+
+<main>
+
+
+
+<div class="section">
+
+<h6>Cosas sin importancia (Pagina4)</h6>
+
+<p>Contenido de la tercera sección.</p>
+
+</div>
+ 
+
+</nav>
+
+/* Estilos básicos para la estructura de la página */
+
+body {
+
+font-family: Arial, sans-serif;
+
+margin: 2;
+
+padding: 1;
+
+}
+
+header, nav, footer {
+
+background-color: #f8f8f8;
+
+padding: 10px;
+
+text-align: center;
+
+}
+
+nav ul {
+
+list-style-type: none;
+
+padding: 0;
+
+}
+
+nav ul li {
+
+display: inline;
+
+margin: 0 10px;
+
+}
+
+nav ul li a {
+
+text-decoration: none;
+
+color: #333;
+
+}
+
+main {
+
+padding: 20px;
+
+}
+
+.section {
+
+margin-bottom: 20px;
+
+}
+
+.section h6 {
+
+margin: 1;
+
+font-size: 1.2em;
+
+}
+
+.image-container {
+
+text-align: center;
+
+margin: 20px 0;
+
+}
+
+footer {
+
+background-color: #333;
+
+color: #fff;
+
+padding: 10px;
+
+}
